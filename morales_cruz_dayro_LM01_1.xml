@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <repartidores>
+        <repartidor>
+            <nombre>Juan Becerril Rodriguez</nombre>
+            <telefono>663549452</telefono>
+            <jornada_laboral>8 horas</jornada_laboral>
+        </repartidor>
+        <repartidor>
+            <nombre>José Romero Serrano</nombre>
+            <telefono>665768798</telefono>
+            <jornada_laboral>8 horas</jornada_laboral>
+        </repartidor>
+    </repartidores>
+    <vehiculos>
+        <vehiculo>
+            <matricula>1234GVV</matricula>
+            <capacidad>3200kg</capacidad>
+            <kilometros>320578</kilometros>
+	</vehiculo>
+	<vehiculo>
+            <matricula>5476KFC</matricula>
+            <capacidad>3200kg</capacidad>
+            <kilometros>280954</kilometros>
+        </vehiculo>	
+    </vehiculos>
+    <paquetes>
+        <paquete>
+            <código_del_paquete>123A45654HL45671</código_del_paquete>
+            <número_intentos>1</número_intentos>
+            <peso>5,4 kg</peso>
+            <destinatario>Rodrigo Peña Rios</destinatario>
+            <nif>23412346P</nif>
+            <telefono>+34654932817</telefono>
+            <direccion>Calle Ave del paraíso, 2 41007 Sevilla</direccion>
+            <indicaciones>Entregar de 18 a 20</indicaciones>
+            <observaciones>Llamar antes de entregar</observaciones>
+        </paquete>
+        <paquete>
+            <código_del_paquete>542B34634YP03291</código_del_paquete>
+            <número_intentos>1</número_intentos>
+            <peso>1,8 kg</peso>
+            <destinatario>Jairo Doblas Clavos </destinatario>
+            <nif>847310986T</nif>
+            <telefono>+34755983218</telefono>
+            <direccion>Calle piruleta, 11 28080 Madrid</direccion>
+            <indicaciones>Entrega horario de mañana</indicaciones>
+            <observaciones>EL cliente ha llamado 3 veces</observaciones>
+        </paquete>
+        <paquete>
+             <código_del_paquete>981K43561TB58991</código_del_paquete>
+            <número_intentos>2</número_intentos>
+            <peso>7 kg</peso>
+            <destinatario>Jacinto Palacio Grande</destinatario>
+            <nif>32986471X</nif>
+            <telefono>+345695842710</telefono>
+            <direccion>Avendia del Freestyle, 11, 41701 Dos Hermanas Sevilla</direccion>
+            <indicaciones>Entregar de 12 a 15</indicaciones>
+            <observaciones>Avisar por el Timbre de la cancela exterior</observaciones>
+        </paquete>
+    </paquetes>
+</empresa>
